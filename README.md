@@ -1,0 +1,2 @@
+# validate nf-parquet plugin
+
